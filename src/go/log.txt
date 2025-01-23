@@ -1,0 +1,9 @@
+23/01/2025 15:47:43 - https://www.alura.com.br - online:true
+23/01/2025 15:47:44 - https://httpbin.org/status/404 - online:false
+23/01/2025 15:47:44 - https://www.caelum.com.br - online:true
+23/01/2025 15:47:49 - https://www.alura.com.br - online:true
+23/01/2025 15:47:51 - https://httpbin.org/status/404 - online:false
+23/01/2025 15:47:51 - https://www.caelum.com.br - online:true
+23/01/2025 15:47:56 - https://www.alura.com.br - online:true
+23/01/2025 15:47:56 - https://httpbin.org/status/404 - online:false
+23/01/2025 15:47:56 - https://www.caelum.com.br - online:true
