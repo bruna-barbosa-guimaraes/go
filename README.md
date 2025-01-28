@@ -1,6 +1,6 @@
 # Formação Go Alura
 
-## Fundamentos da linguagem Go:
+## 1 - Fundamentos da linguagem Go:
   
 ### Curso de Go: a linguagem do Google (src/go)
   - variáveis
@@ -16,4 +16,8 @@
   - composição e encapsulamento
   - interface
 
-## Aplicações Web e API Rest com Go
+## 2- Aplicações Web e API Rest com Go
+
+### Curso de Go: desenvolvendo uma API Rest
+
+
