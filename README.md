@@ -19,5 +19,8 @@
 ## 2- Aplicações Web e API Rest com Go
 
 ### Curso de Go: desenvolvendo uma API Rest
-
+  - servidor
+  - banco de dados Postgres
+  - modularização em MVC
+  - CRUD completo de uma loja de produtos
 
